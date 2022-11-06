@@ -1,8 +1,7 @@
 <h2>Hi 👋</h2>
 
-- 📚 I'm a final-year student of **Information Technology**
+- 📚 Final-year secondary school student of **Information Technology**
 - 💯 Most knowledgeable in **C#** and **.NET** environment
-- 🔭 I’m currently working on **my final thesis at [ŠKODA Auto](https://en.wikipedia.org/wiki/%C5%A0koda_Auto)**
-- 👨‍💻 All of my projects are available at **[www.ondrejsvorc.github.io](https://ondrejsvorc.github.io/)**
+- 🔭 Currently working on **my final thesis at [ŠKODA Auto](https://en.wikipedia.org/wiki/%C5%A0koda_Auto)**
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ondrejsvorc&show_icons=true&locale=en&layout=compact" alt="ondrejsvorc" /></p>
