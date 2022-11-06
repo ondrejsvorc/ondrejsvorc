@@ -1,4 +1,4 @@
-<h2>Hi 👋</h2>
+### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 - 📚 Final-year secondary school student of **Information Technology**
 - 💯 Most knowledgeable in **C#** and **.NET** environment
