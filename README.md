@@ -1,7 +1,11 @@
-### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## 🤖 Hi
 
 - 📚 Final-year secondary school student of **Information Technology**
 - 💯 Most knowledgeable in **C#** and **.NET** environment
 - 🔭 Currently working on **my final thesis at [ŠKODA Auto](https://en.wikipedia.org/wiki/%C5%A0koda_Auto)**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ondrejsvorc&show_icons=true&locale=en&layout=compact" alt="ondrejsvorc" /></p>
+## 💼 Skills
+
+![](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
