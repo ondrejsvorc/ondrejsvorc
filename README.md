@@ -1,11 +1,27 @@
-## 🤖 Hi
+# 💻 Greetings!
+I am a performance-driven software developer with focus on creating efficient and high-performing software solutions.
 
-- 📚 Final-year secondary school student of **Information Technology**
-- 💯 Most knowledgeable in **C#** and **.NET** environment
-- 🔭 Currently working on **my final thesis at [ŠKODA Auto](https://en.wikipedia.org/wiki/%C5%A0koda_Auto)**
+## About Me
+- Currently focusing on BE development at **[ŠKODA Auto](https://en.wikipedia.org/wiki/%C5%A0koda_Auto)**
+- Final-year secondary school student of IT
 
-## 💼 Skills
+## Tech Stack
+Here are technologies I have experience working with and am familiar with, as well as those I am interested in learning more about.
 
-![](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+### Working with
+- C#
+- .NET
+
+### Familiar with
+- JavaScript/TypeScript
+- PowerShell
+- Wiring
+- PHP
+- SQL
+
+### Interested in
+- Angular
+- Nest.js
+
+## Contact Me
+If you have any questions or opportunities to discuss, feel free to reach out to me through my [LinkedIn profile](https://www.linkedin.com/in/ondrejsvorc/).
