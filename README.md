@@ -1,28 +1,12 @@
-# 💻 Greetings!
-I am a performance-driven software developer with a focus on creating high-performing and readable software solutions.
+## 💻 Ondřej Švorc
 
-## 🛡️ Tech Stack
-Here are technologies I have experience working with and am familiar with, as well as those I am interested in learning more about.
+I am a detail-oriented **software developer** with **2+ years** of commercial experience in **.NET**.
 
-### 🚀 Working with
-- .NET
-- C#
-
-### 🤝 Familiar with
-- JavaScript
-- TypeScript
-- PowerShell
-- Nest.js
-- Angular
-- Wiring
-- PHP
-- SQL
+### ⚙️ Working with
+- `C#` `.NET`
 
 ### 🔎 Interested in
-- Python
-- Kotlin
-- Rust
-- Go
+- `Python` `Kotlin` `Rust` `Go`
 
-## 📲 Contact Me
-If you have any questions or opportunities to discuss, feel free to reach out to me through my **[LinkedIn profile](https://www.linkedin.com/in/ondrejsvorc/)**.
+### 🤝 Familiar with       
+- `Nest.js` `PHP` `SQL` `Angular` `TypeScript` `PowerShell`
