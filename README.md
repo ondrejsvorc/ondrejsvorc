@@ -6,7 +6,7 @@ I am a detail-oriented **software developer** with **2+ years** of commercial ex
 - `C#` `.NET`
 
 ### 🔎 Interested in
-- `Python` `Kotlin` `Rust` `Go`
+- `Python` `Kotlin` `F#` `Go`
 
 ### 🤝 Familiar with       
 - `Nest.js` `PHP` `SQL` `Angular` `TypeScript` `PowerShell`
