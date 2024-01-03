@@ -1,12 +1,14 @@
 ## 💻 Ondřej Švorc
 
-I am a detail-oriented **software developer** with **2+ years** of commercial experience in **.NET**.
+I am a detail-oriented **software developer** with **2+ years** of commercial experience in **.NET**. 
+
+Lately, I have been expanding my expertise to include **React** and **TypeScript**.
 
 ### ⚙️ Working with
-- `C#` `.NET`
+- `C#` `.NET` `React` `TypeScript` 
 
 ### 🔎 Interested in
-- `Python` `Kotlin` `F#` `Go` `Rust`
+- `F#` `Node.js` `Go` `Kotlin` `Rust`
 
-### 🤝 Familiar with       
-- `React` `Angular` `TypeScript` `Nest.js` `PHP` `SQL` `PowerShell`
+### 🤝 Familiar with
+- `Python` `Angular` `Nest.js` `PowerShell` `PHP` 
