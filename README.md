@@ -8,7 +8,7 @@ Lately, I have been expanding my expertise to include **React** and **TypeScript
 - `C#` `.NET` `React` `TypeScript` 
 
 ### 🔎 Interested in
-- `F#` `Node.js` `Go` `Kotlin` `Rust`
+- `F#` `Node.js` `Kotlin` `Rust`
 
 ### 🤝 Familiar with
 - `Python` `Angular` `Nest.js` `PowerShell` `PHP` 
