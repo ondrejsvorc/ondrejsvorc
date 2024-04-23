@@ -1,14 +1,6 @@
-## 💻 Ondřej Švorc
+### Introduction
+Primarily **.NET Developer** with **2+** years of commercial experience.  
+Currently expanding the expertise to include React and TypeScript.
 
-I am a detail-oriented **software developer** with **2+ years** of commercial experience in **.NET**. 
-
-Lately, I have been expanding my expertise to include **React** and **TypeScript**.
-
-### ⚙️ Working with
-- `C#` `.NET` `React` `TypeScript` 
-
-### 🔎 Interested in
-- `F#` `Node.js` `Kotlin` `Rust`
-
-### 🤝 Familiar with
-- `Python` `Angular` `Nest.js` `PowerShell` `PHP` 
+### Technologies
+[![My Skills](https://skillicons.dev/icons?i=cs,net,nest,ts,react,angular)](https://skillicons.dev)
