@@ -1,5 +1,5 @@
 ### Introduction
-Primarily **.NET Developer** with **2+** years of commercial experience.  
+Primarily **.NET Developer** with **3+** years of commercial experience.  
 Currently expanding the expertise to include React and Typescript.
 
 ### Technologies
