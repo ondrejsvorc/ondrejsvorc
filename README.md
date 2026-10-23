@@ -1,9 +1,9 @@
 ### Introduction
-Full Stack Developer with 4+ years of commercial experience.  
-Designin' maintainable architecture for modern web systems.
+
+Full Stack Engineer with 4+ years of professional expertise.  
+Designing maintainable architecture for modern web sites.
 
 ### Technologies
 [![](https://skillicons.dev/icons?i=net)](https://dotnet.microsoft.com/en-us/)
 [![](https://skillicons.dev/icons?i=react)](https://react.dev/)
-[![](https://skillicons.dev/icons?i=swift)](http://swift.org/)
 [![](https://skillicons.dev/icons?i=python)](http://python.org/)
